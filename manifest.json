@@ -1,0 +1,21 @@
+{
+  "name": "EPhone",
+  "short_name": "EPhone",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "description": "聊天应用",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/xjt3Whqd/1758594611722.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/xjt3Whqd/1758594611722.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
